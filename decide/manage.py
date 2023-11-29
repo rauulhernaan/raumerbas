@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/egcenv python3
 import os
 import sys
 
